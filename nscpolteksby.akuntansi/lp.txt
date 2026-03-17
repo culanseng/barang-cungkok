@@ -206,7 +206,7 @@
     "bestRating": 5
    },
    "datePublished": "2025-11-13",
-   "reviewBody": Saya suka main di LANDAKTOTO karena depositnya bisa cuma 5K saja. Cocok buat main santai tanpa harus keluar modal besar.,
+   "reviewBody": Deposit pulsa tanpa potongan juga membuat saldo masuk penuh, jadi peluang menang terasa lebih maksimal.,
    "author": {
     "@type": "Person",
     "name": "Arif"
@@ -1796,7 +1796,7 @@ if (clientloggerIsEnabled) {
 <center><h2 style="font-weight: bold;">TESTIMONI MEMBER LANDAKTOTO</h2>
 <div class="testimoni-wrapper">
   <blockquote>
-    <p>Saya suka main di LANDAKTOTO karena depositnya bisa cuma 5K saja. Cocok buat main santai tanpa harus keluar modal besar.</p>
+    <p>Deposit pulsa tanpa potongan juga membuat saldo masuk penuh, jadi peluang menang terasa lebih maksimal.</p>
     <cite>Andi – Jakarta</cite>
   </blockquote>
 
